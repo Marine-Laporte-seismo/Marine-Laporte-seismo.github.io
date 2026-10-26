@@ -11,9 +11,9 @@ title                    : "Marine Laporte"
 title_separator          : "-"
 name                     : &name "Marine Laporte"
 description              : &description ""
-url                      : https://Marine-Laporte.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://marine-laporte-seismo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Marine-Laporte/Marine-Laporte.github.io"
+repository               : "Marine-Laporte-seismo/Marine-Laporte-seismo.github.io"
 teaser                   : "photo_marine.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Marine-Laporte"
+  github           : "Marine-Laporte-seismo"
   google_plus      :
   keybase          :
   instagram        :
