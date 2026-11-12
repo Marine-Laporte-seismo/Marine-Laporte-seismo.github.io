@@ -20,7 +20,7 @@ Using Bayesian tools, I seek to understand when and why this parameter changes b
 
 My latest article on Bayesian estimate of b-value temporal variations is published at JGR [here](/files/b_Bayesian_JGR_2025.pdf)
 
-The latest and quick version of the b-Bayesian code is available [here](https://github.com/Marine-Laporte/b-Bayesian_binned) : 
+The latest and quick version of the b-Bayesian code is available [here](https://github.com/Marine-Laporte-seismo/b-Bayesian) : 
 
 ## Keywords
 * Seismotectonics
