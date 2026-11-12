@@ -35,6 +35,7 @@ Download Full CV (English version) [here](/files/CV_2025_Marine_Laporte.pdf).
 * 2024: 2000e -- 1ères Rencontres EPOS-France - Poster award. 
 
 ## Public dissemination / outreach
+* 2026 : Organization of a 2 days workshop on Earthquake Source Parameters in Barcelona
 * 2023-2024 : Vacataire of ENS-Lyon
 * 2022: Organization and presentation of a 3 days workshop on earthquake location, National Earthquake Monitoring Center, Katmandou
 * 2019-Present : 5 outreach presentation for primary and secondary schools, participation to local science faires
